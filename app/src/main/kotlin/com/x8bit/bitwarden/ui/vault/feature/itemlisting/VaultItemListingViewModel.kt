@@ -2847,6 +2847,18 @@ class VaultItemListingViewModel @Inject constructor(
                     )
                 }
             }
+
+            AutofillSelectionData.Type.IDENTITY -> {
+                this.map { vaultData ->
+                    vaultData.copy(
+                        decryptCipherListResult = vaultData.decryptCipherListResult.copy(
+                            successes = vaultData.decryptCipherListResult.successes
+                                .filter { it.type is CipherListViewType.Identity },
+                            failures = emptyList(),
+                        ),
+                    )
+                }
+            }
         }
     }
 
@@ -3028,6 +3040,10 @@ data class VaultItemListingState(
 
                             AutofillSelectionData.Type.LOGIN -> {
                                 BitwardenString.items_for_uri.asText(it)
+                            }
+
+                            AutofillSelectionData.Type.IDENTITY -> {
+                                BitwardenString.identities_for_x.asText(it)
                             }
                         }
                     }
