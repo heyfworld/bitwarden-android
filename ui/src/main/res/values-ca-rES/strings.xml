@@ -341,9 +341,9 @@ L\'escaneig es farà automàticament.</string>
     <string name="moved_item_to_org">%1$s desplaçat a %2$s.</string>
     <string name="select_one_collection">Heu d\'escollir com a mínim una col·lecció.</string>
     <string name="share">Comparteix</string>
-    <string name="move_to_vault">Move to vault</string>
-    <string name="no_vaults_to_list">No vaults to list.</string>
-    <string name="move_to_vault_desc">Choose a vault that you wish to move this item to. Moving to another vault transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</string>
+    <string name="move_to_organization">Desplaça a l\'organització</string>
+    <string name="no_orgs_to_list">No hi ha cap organització per llistar.</string>
+    <string name="move_to_org_desc">Trieu una organització a la qual vulgueu desplaçar aquest element. El trasllat a una organització transfereix la propietat de l\'element a aquesta organització. Ja no sereu el propietari directe d\'aquest element una vegada s\'haja mogut.</string>
     <string name="number_of_words">Nombre de paraules</string>
     <string name="passphrase">Frase de pas</string>
     <string name="word_separator">Separador de paraules</string>

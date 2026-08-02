@@ -341,9 +341,9 @@ A leitura será efetuada automaticamente.</string>
     <string name="moved_item_to_org">%1$s movido para %2$s.</string>
     <string name="select_one_collection">Deve selecionar pelo menos uma coleção.</string>
     <string name="share">Partilhar</string>
-    <string name="move_to_vault">Mover para o cofre</string>
-    <string name="no_vaults_to_list">Não existem cofres para apresentar.</string>
-    <string name="move_to_vault_desc">Escolha o cofre para o qual pretende mover este item. Ao movê-lo para outro cofre, a propriedade do item será transferida para essa organização. Deixará de ser o proprietário direto deste item após a transferência.</string>
+    <string name="move_to_organization">Mover para organização</string>
+    <string name="no_orgs_to_list">Não existem organizações para apresentar.</string>
+    <string name="move_to_org_desc">Escolha a organização para a qual pretende mover este item. Ao movê-lo para uma organização, a propriedade do item será transferida para essa organização. Deixará de ser o proprietário direto deste item após a transferência.</string>
     <string name="number_of_words">Número de palavras</string>
     <string name="passphrase">Frase de acesso</string>
     <string name="word_separator">Separador de palavras</string>

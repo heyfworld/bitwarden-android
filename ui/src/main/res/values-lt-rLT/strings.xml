@@ -345,9 +345,9 @@ Nuskaitymas vyks automatiškai.</string>
     <string name="moved_item_to_org">%1$s perkelta į %2$s.</string>
     <string name="select_one_collection">Turite pasirinkti bent vieną kolekciją.</string>
     <string name="share">Dalintis</string>
-    <string name="move_to_vault">Move to vault</string>
-    <string name="no_vaults_to_list">No vaults to list.</string>
-    <string name="move_to_vault_desc">Choose a vault that you wish to move this item to. Moving to another vault transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</string>
+    <string name="move_to_organization">Pereikite į organizaciją</string>
+    <string name="no_orgs_to_list">Organizacijų sąraše nėra.</string>
+    <string name="move_to_org_desc">Pasirinkite organizaciją, į kurią norite perkelti šį elementą. Perkėlus į organizaciją, nuosavybės teisė į elementą perduodama tai organizacijai. Kai jis bus perkeltas, nebebūsite tiesioginis šio elemento savininkas.</string>
     <string name="number_of_words">Žodžių skaičius</string>
     <string name="passphrase">Slaptafrazė</string>
     <string name="word_separator">Žodžių skirtukas</string>

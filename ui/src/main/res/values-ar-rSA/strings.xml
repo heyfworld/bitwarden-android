@@ -349,9 +349,9 @@
     <string name="moved_item_to_org">%1$s نقل إلى %2$s.</string>
     <string name="select_one_collection">يجب اختيار مجموعة واحدة على الأقل.</string>
     <string name="share">مشاركة</string>
-    <string name="move_to_vault">Move to vault</string>
-    <string name="no_vaults_to_list">No vaults to list.</string>
-    <string name="move_to_vault_desc">Choose a vault that you wish to move this item to. Moving to another vault transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</string>
+    <string name="move_to_organization">الانتقال إلى المنظمة</string>
+    <string name="no_orgs_to_list">لا توجد منظمات لعرضها.</string>
+    <string name="move_to_org_desc">اختر منظمة تود نقل هذا العنصر إليها. النقل إلى منظمة ينقل ملكية العنصر إليها. لن تعود المالك المباشر لهذا العنصر بمجرد نقله.</string>
     <string name="number_of_words">عدد الكلمات</string>
     <string name="passphrase">جملة المرور</string>
     <string name="word_separator">فاصل الكلمات</string>

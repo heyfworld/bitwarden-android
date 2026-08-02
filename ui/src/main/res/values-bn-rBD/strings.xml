@@ -341,9 +341,9 @@
     <string name="moved_item_to_org">%1$s কে %2$s-এ সরানো হয়েছে।</string>
     <string name="select_one_collection">আপনাকে কমপক্ষে একটি সংগ্রহ নির্বাচন করতে হবে।</string>
     <string name="share">শেয়ার করুন</string>
-    <string name="move_to_vault">ভল্টে সরান</string>
-    <string name="no_vaults_to_list">তালিকাভুক্ত করার মতো কোনও ভল্ট নেই।</string>
-    <string name="move_to_vault_desc">আপনি এই আইটেমটি যে ভল্টে সরাতে চান তা নির্বাচন করুন। অন্য ভল্টে সরানো আইটেমটির মালিকানা সেই সংগঠনে স্থানান্তর করে। একবার সরানোর পরে আপনি আর এই আইটেমটির প্রত্যক্ষ মালিক থাকবেন না।</string>
+    <string name="move_to_organization">সংগঠনে সরান</string>
+    <string name="no_orgs_to_list">তালিকাভুক্ত করার মতো কোনও সংগঠন নেই।</string>
+    <string name="move_to_org_desc">আপনি এই আইটেমটি যে সংগঠনে সরাতে চান তা নির্বাচন করুন। একটি সংগঠনে সরানো আইটেমটির মালিকানা সেই সংগঠনে স্থানান্তর করে। একবার সরানোর পরে আপনি আর এই আইটেমটির প্রত্যক্ষ মালিক থাকবেন না।</string>
     <string name="number_of_words">শব্দসংখ্যা</string>
     <string name="passphrase">গুপ্ত-বাক্যাংশ</string>
     <string name="word_separator">শব্দ বিভাজক</string>

@@ -341,9 +341,9 @@ Escanearase automaticamente.</string>
     <string name="moved_item_to_org">%1$s movido a %2$s.</string>
     <string name="select_one_collection">Debes seleccionar polo menos unha colección.</string>
     <string name="share">Compartir</string>
-    <string name="move_to_vault">Move to vault</string>
-    <string name="no_vaults_to_list">No vaults to list.</string>
-    <string name="move_to_vault_desc">Choose a vault that you wish to move this item to. Moving to another vault transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</string>
+    <string name="move_to_organization">Mover á organización</string>
+    <string name="no_orgs_to_list">Non hai organizacións que listar.</string>
+    <string name="move_to_org_desc">Escolle a organización á que queres transferir esta entrada. Ó transferila, tamén transfires a súa propiedade á organización. Unha vez transferida, xa non serás o propietario directo desde elemento.</string>
     <string name="number_of_words">Número de palabras</string>
     <string name="passphrase">Frase de contrasinal</string>
     <string name="word_separator">Separador de palabras</string>

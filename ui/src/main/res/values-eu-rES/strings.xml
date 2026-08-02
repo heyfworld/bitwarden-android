@@ -340,9 +340,9 @@
     <string name="moved_item_to_org">%1$s %2$s-era mugitu da.</string>
     <string name="select_one_collection">Gutxienez bilduma bat aukeratu behar duzu.</string>
     <string name="share">Partekatu</string>
-    <string name="move_to_vault">Mugitu kutxara</string>
-    <string name="no_vaults_to_list">Ez dago zerrendatzeko kuxarik.</string>
-    <string name="move_to_vault_desc">Aukeratu elementu hau mugitu nahi duzun kutxa bat. Beste kutxa batera mugitzeak elementuaren jabetza erakunde horri transferitzen dio. Elementua mugitu ondoren, ez zara jabe zuzena izango.</string>
+    <string name="move_to_organization">Mugitu erakundera</string>
+    <string name="no_orgs_to_list">Ez dago erakunderik erakusteko.</string>
+    <string name="move_to_org_desc">Aukeratu elementu hau zein erakundetara eraman nahi duzun. Erakunde batera pasatzeak elementuaren jabetza erakunde horretara transferitzen du. Zu ez zara elementu honen jabe zuzena izango mugitzen duzunean.</string>
     <string name="number_of_words">Hitz kopurua</string>
     <string name="passphrase">Pasaesaldia</string>
     <string name="word_separator">Hitz banatzailea</string>

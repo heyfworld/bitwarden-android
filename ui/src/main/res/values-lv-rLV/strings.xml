@@ -343,9 +343,9 @@ Nolasīšana notiks automātiski.</string>
     <string name="moved_item_to_org">%1$s pārvietots uz %2$s.</string>
     <string name="select_one_collection">Ir jāizvēlas vismaz viens krājums.</string>
     <string name="share">Kopīgot</string>
-    <string name="move_to_vault">Move to vault</string>
-    <string name="no_vaults_to_list">No vaults to list.</string>
-    <string name="move_to_vault_desc">Choose a vault that you wish to move this item to. Moving to another vault transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</string>
+    <string name="move_to_organization">Pārvietot uz apvienību</string>
+    <string name="no_orgs_to_list">Nav apvienību, ko parādīt</string>
+    <string name="move_to_org_desc">Izvēlies apvienību, uz kuru pārvietot šo vienumu. Pārvietošana nodod šī vienuma piederību apvienībai. Tu vairs nebūsi šī vienuma tiešais īpašnieks pēc tā pārvietošanas.</string>
     <string name="number_of_words">Vārdu skaits</string>
     <string name="passphrase">Paroles vārdkopa</string>
     <string name="word_separator">Vārdu atdalītājs</string>

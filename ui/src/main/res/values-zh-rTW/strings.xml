@@ -339,9 +339,9 @@
     <string name="moved_item_to_org">%1$s 已移動至 %2$s。</string>
     <string name="select_one_collection">您必須至少選擇一個集合。</string>
     <string name="share">共用</string>
-    <string name="move_to_vault">Move to vault</string>
-    <string name="no_vaults_to_list">No vaults to list.</string>
-    <string name="move_to_vault_desc">Choose a vault that you wish to move this item to. Moving to another vault transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</string>
+    <string name="move_to_organization">移動至組織</string>
+    <string name="no_orgs_to_list">沒有可列出的組織。</string>
+    <string name="move_to_org_desc">選擇您希望將這個項目移動至哪個組織。項目的擁有權將會轉移至該組織。轉移之後，您將不再是此項目的直接擁有者。</string>
     <string name="number_of_words">單字數量</string>
     <string name="passphrase">密碼短語</string>
     <string name="word_separator">單字分隔字元</string>

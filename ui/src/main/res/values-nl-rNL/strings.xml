@@ -341,9 +341,9 @@ Het scannen gebeurt automatisch.</string>
     <string name="moved_item_to_org">%1$s is verplaatst naar %2$s.</string>
     <string name="select_one_collection">Je moet tenminste één verzameling selecteren.</string>
     <string name="share">Delen</string>
-    <string name="move_to_vault">Naar kluis verplaatsen</string>
-    <string name="no_vaults_to_list">Geen kluizen om weer te geven.</string>
-    <string name="move_to_vault_desc">Kies een kluis waarnaar je dit item wilt verplaatsen. Door het verplaatsen krijgt de organisatie de eigendomsrechten van het item. Je bent niet langer de directe eigenaar meer van het item als het is verplaatst.</string>
+    <string name="move_to_organization">Naar organisatie verplaatsen</string>
+    <string name="no_orgs_to_list">Geen organisaties om weer te geven.</string>
+    <string name="move_to_org_desc">Kies een organisatie waarnaar je dit item wilt verplaatsen. Door het verplaatsen krijgt de organisatie de eigendomsrechten van het item. Je bent niet langer de directe eigenaar meer van het item als het is verplaatst.</string>
     <string name="number_of_words">Aantal woorden</string>
     <string name="passphrase">Wachtwoordzin</string>
     <string name="word_separator">Scheidingsteken</string>

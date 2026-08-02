@@ -341,9 +341,9 @@ Kod otomatik olarak taranacaktır.</string>
     <string name="moved_item_to_org">%1$s, %2$s kuruluşuna taşındı.</string>
     <string name="select_one_collection">En az bir koleksiyon seçmelisiniz.</string>
     <string name="share">Paylaş</string>
-    <string name="move_to_vault">Kasaya taşı</string>
-    <string name="no_vaults_to_list">Listelenecek kasa yok.</string>
-    <string name="move_to_vault_desc">Choose a vault that you wish to move this item to. Moving to another vault transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</string>
+    <string name="move_to_organization">Kuruluşa taşı</string>
+    <string name="no_orgs_to_list">Listelenecek kuruluş yok.</string>
+    <string name="move_to_org_desc">Bu kaydı taşımak istediğiniz kuruluşu seçin. Taşıdığınız kaydın sahipliği seçtiğiniz kuruluşa aktarılacak. Artık bu kaydın doğrudan sahibi olmayacaksınız.</string>
     <string name="number_of_words">Kelime sayısı</string>
     <string name="passphrase">Parola cümlesi</string>
     <string name="word_separator">Kelime ayracı</string>

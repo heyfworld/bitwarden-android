@@ -283,7 +283,7 @@ Das Scannen erfolgt automatisch.</string>
     <string name="vault_is_locked">Tresor ist gesperrt</string>
     <string name="go_to_my_vault">Zum Tresor gehen</string>
     <string name="collections">Sammlungen</string>
-    <string name="no_items_collection">Es sind keine Objekte in dieser Sammlung.</string>
+    <string name="no_items_collection">Diese Sammlung enthält keine Einträge.</string>
     <string name="no_items_folder">Es sind keine Objekte in diesem Ordner.</string>
     <string name="no_items_trash">Es sind keine Einträge im Papierkorb.</string>
     <string name="autofill_accessibility_summary">Unterstützung beim Ausfüllen von Benutzernamen und Passwort in anderen Apps und im Web.</string>
@@ -341,9 +341,9 @@ Das Scannen erfolgt automatisch.</string>
     <string name="moved_item_to_org">%1$s verschoben nach %2$s.</string>
     <string name="select_one_collection">Es muss mindestens eine Sammlung ausgewählt sein.</string>
     <string name="share">Teilen</string>
-    <string name="move_to_vault">In Tresor verschieben</string>
-    <string name="no_vaults_to_list">Keine Tresore zum Anzeigen.</string>
-    <string name="move_to_vault_desc">Wähle einen Tresor aus, in den du diesen Eintrag verschieben möchtest. Das Verschieben in einen anderen Tresor übertragt das Eigentum an die Organisation. Du bist nicht länger der Eigentümer dieses Eintrags, sobald er verschoben wurde.</string>
+    <string name="move_to_organization">In Organisation verschieben</string>
+    <string name="no_orgs_to_list">Keine Organisationen vorhanden.</string>
+    <string name="move_to_org_desc">Wähle eine Organisation aus, in die du diesen Eintrag verschieben möchtest. Das Verschieben in eine Organisation überträgt das Eigentum an diese Organisation. Du bist nicht mehr der direkte Eigentümer dieses Eintrags, sobald er verschoben wurde.</string>
     <string name="number_of_words">Anzahl der Wörter</string>
     <string name="passphrase">Passphrase</string>
     <string name="word_separator">Worttrennzeichen</string>
@@ -1414,5 +1414,5 @@ Möchtest du zu diesem Konto wechseln?</string>
     <string name="share_files_securely_with_anyone_using_send">Teile Dateien mit Send sicher mit jedem</string>
     <string name="receive_24_7_priority_support">Erhalte 24/7 vorrangigen Support</string>
     <string name="account_creation_restricted">Kontoerstellung eingeschränkt</string>
-    <string name="only_allows_invited_users_to_create_accounts">%1$s erlaubt es nur eingeladenen Nutzern ein Konto zu erstellen.</string>
+    <string name="only_allows_invited_users_to_create_accounts">%1$s erlaubt es nur eingeladenen Benutzern Konten zu erstellen.</string>
 </resources>

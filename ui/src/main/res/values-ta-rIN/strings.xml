@@ -341,9 +341,9 @@
     <string name="moved_item_to_org">%1$s %2$s-க்கு நகர்த்தப்பட்டது.</string>
     <string name="select_one_collection">நீங்கள் ஒரு தொகுப்பாவது தேர்ந்தெடுக்க வேண்டும்.</string>
     <string name="share">பகிர்</string>
-    <string name="move_to_vault">Move to vault</string>
-    <string name="no_vaults_to_list">No vaults to list.</string>
-    <string name="move_to_vault_desc">Choose a vault that you wish to move this item to. Moving to another vault transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</string>
+    <string name="move_to_organization">நிறுவனத்துக்கு நகர்த்து</string>
+    <string name="no_orgs_to_list">பட்டியலிட நிறுவனங்களில்லை.</string>
+    <string name="move_to_org_desc">இவ்வுருப்படியை நகர்த்த நிறுவனத்தைத் தேர்வுசெய். நிறுவனத்திற்கு நகர்த்தல் உருப்படியின் உரிமையை அந்நிறுவனத்திற்கு மாற்றும். நகர்த்தியபின் இவ்வுருப்படிக்கு நேரடி உரிமையாளராக இருக்கமாட்டீர்.</string>
     <string name="number_of_words">சொற்களின் எண்ணிக்கை</string>
     <string name="passphrase">கடவுச்சொற்றொடர்</string>
     <string name="word_separator">சொல் பிரிப்பான்</string>

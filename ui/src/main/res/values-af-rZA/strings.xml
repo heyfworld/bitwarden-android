@@ -341,9 +341,9 @@ Skandering gebeur outomaties.</string>
     <string name="moved_item_to_org">%1$s geskuif na %2$s.</string>
     <string name="select_one_collection">U moet ten minste een versameling kies.</string>
     <string name="share">Deel</string>
-    <string name="move_to_vault">Move to vault</string>
-    <string name="no_vaults_to_list">No vaults to list.</string>
-    <string name="move_to_vault_desc">Choose a vault that you wish to move this item to. Moving to another vault transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved.</string>
+    <string name="move_to_organization">Skuif na organisasie</string>
+    <string name="no_orgs_to_list">Geen organisasies om te lys nie.</string>
+    <string name="move_to_org_desc">Kies ’n organisasie waarheen u hierdie item wil skuif. Deur te skuif kry die organisasie die einaarskap van die item. U is dan nie meer die direkte eienaar van die item wanneer dit geskuif is nie.</string>
     <string name="number_of_words">Aantal woorde</string>
     <string name="passphrase">Wagfrase</string>
     <string name="word_separator">Woordskeier</string>

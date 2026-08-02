@@ -345,9 +345,9 @@
     <string name="moved_item_to_org">%1$s перемещено в %2$s.</string>
     <string name="select_one_collection">Необходимо выбрать хотя бы одну коллекцию.</string>
     <string name="share">Поделиться</string>
-    <string name="move_to_vault">Переместить в хранилище</string>
-    <string name="no_vaults_to_list">Нет хранилища для отображения.</string>
-    <string name="move_to_vault_desc">Выберите хранилище, в которое вы хотите переместить этот элемент. Перемещение в хранилище передает права на элемент этой организации. Вы больше не будете непосредственным владельцем этого элемента после его перемещения.</string>
+    <string name="move_to_organization">Переместить в организацию</string>
+    <string name="no_orgs_to_list">Нет организаций для отображения.</string>
+    <string name="move_to_org_desc">Выберите организацию, в которую вы хотите переместить этот элемент. При перемещении в организацию право собственности на элемент переходит к этой организации. Вы больше не будете прямым владельцем этого элемента после его перемещения.</string>
     <string name="number_of_words">Количество слов</string>
     <string name="passphrase">Парольная фраза</string>
     <string name="word_separator">Разделитель слов</string>

@@ -341,9 +341,9 @@
     <string name="moved_item_to_org">%1$s се премести в %2$s.</string>
     <string name="select_one_collection">Изберете поне една колекция.</string>
     <string name="share">Споделяне</string>
-    <string name="move_to_vault">Преместване в трезора</string>
-    <string name="no_vaults_to_list">Няма трезори за показване.</string>
-    <string name="move_to_vault_desc">Изберете трезор, в която искате да преместите записа. Преместването към друг трезор прехвърля собствеността му към съответната организация. След това няма вече директно да го притежавате.</string>
+    <string name="move_to_organization">Преместване в организация</string>
+    <string name="no_orgs_to_list">Няма организации за показване.</string>
+    <string name="move_to_org_desc">Изберете организацията, в която искате да преместите записа. Преместването прехвърля собствеността му към новата организация. След това няма вече директно да го притежавате.</string>
     <string name="number_of_words">Брой думи</string>
     <string name="passphrase">Парола-фраза</string>
     <string name="word_separator">Разделител за думи</string>

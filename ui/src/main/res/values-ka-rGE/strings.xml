@@ -341,9 +341,9 @@
     <string name="moved_item_to_org">%1$s გადატანილია %2$s-ში.</string>
     <string name="select_one_collection">უნდა აირჩიოთ მინიმუმ ერთი კოლექცია.</string>
     <string name="share">გაზიარება</string>
-    <string name="move_to_vault">სეიფში გადატანა</string>
-    <string name="no_vaults_to_list">გამოსატანი სეიფები არ არის.</string>
-    <string name="move_to_vault_desc">აირჩიეთ სეიფი, რომელშიც გსურთ ამ ჩანაწერის გადატანა. სხვა სეიფში გადატანა გადასცემს ჩანაწერის საკუთრებას იმ ორგანიზაციას. გადატანის შემდეგ, თქვენ აღარ იქნებით ამ ჩანაწერის პირდაპირი მფლობელი.</string>
+    <string name="move_to_organization">ორგანიზაციაში გადატანა</string>
+    <string name="no_orgs_to_list">გამოსატანი ორგანიზაციები არ არის.</string>
+    <string name="move_to_org_desc">აირჩიეთ ორგანიზაცია, რომელშიც გსურთ ამ ჩანაწერის გადატანა. ორგანიზაციაში გადატანა გადასცემს ჩანაწერის საკუთრებას ამ ორგანიზაციას. გადატანის შემდეგ, თქვენ აღარ იქნებით ამ ჩანაწერის პირდაპირი მფლობელი.</string>
     <string name="number_of_words">სიტყვების რაოდენობა</string>
     <string name="passphrase">ფრაზა</string>
     <string name="word_separator">სიტყვების გამყოფი</string>
